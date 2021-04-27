@@ -27,7 +27,7 @@ From the modal overlay that appears choose "Signup Form", then click "Begin" und
 
 Under "Copy/paste onto your site" you'll see the markup  for the newsletter form. Just copy the form action value from the form
 
-![copy form action from mailchimp](/uploads/screen-shot-2019-08-01-at-1.05.09-pm.png)
+![copy form action from mailchimp](/uploads/disqus-get-started.jpg)
 
 ## 5. Add the Action to the Awake Site Configuration
 
